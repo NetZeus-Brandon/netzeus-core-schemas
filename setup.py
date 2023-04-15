@@ -5,7 +5,7 @@ with open("README.md", "r") as fs:
 
 setup(
     name="netzeus_core_schemas",
-    version="0.0.1",
+    version="0.0.2",
     description="NetZeus Core Schemas module for managing shared pydantic schemas across all microservices/plugins",
     long_description=long_description,
     long_description_content_type="text/markdown",
